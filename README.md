@@ -76,17 +76,28 @@ The dataset used contains the following features:
 
 ✳️ Clearly, **petal features** are most influential in classifying the flower species.
 
+---
+
 ## 🎯 Conclusion
 
 - The model achieved **100% accuracy** on the test set.
 - Petal measurements are more significant for species identification than sepal measurements.
 - The Random Forest Classifier proved to be highly effective for this classification task.
 
+---
+
 ## 🛠️ Libraries Used
 
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn` (train_test_split, StandardScaler, RandomForestClassifier, metrics)
 
+---
+
 ## 📌 Author
 
 **Kamini** 
+
+---
+
+
+
